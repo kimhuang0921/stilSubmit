@@ -1,0 +1,10 @@
+Timestamp,SubmittedBy,Email,BatchID,STIL_Path,XMode,Status
+2025-06-11 05:18:26,kimhuang,kimhuang@rivosinc.com,scan_x4_250611_0518,/projects/ga0/patterns/scan/eval/Scan/for_x4_compression/rva_dpa_grid_ddp_sub_grid_ddp_x0_sub_grid_x0_y0_PE0_int_sa_chain_edt_pl_061025_1.stil.gz,4,COMPLETE
+2025-06-11 05:18:26,kimhuang,kimhuang@rivosinc.com,scan_x4_250611_0518,/projects/ga0/patterns/scan/eval/Scan/for_x4_compression/rva_dpa_grid_ddp_sub_grid_ddp_x0_sub_grid_x0_y0_PE0_int_sa_edt_ts_061025_1.stil.gz,4,COMPLETE
+2025-06-11 05:18:26,kimhuang,kimhuang@rivosinc.com,scan_x4_250611_0518,/projects/ga0/patterns/scan/eval/Scan/for_x4_compression/rva_dpa_grid_ddp_sub_grid_ddp_x0_sub_grid_x0_y0_PE0_int_sa_scan_edt_pl_061025_1.stil.gz,4,COMPLETE
+2025-06-11 05:18:26,kimhuang,kimhuang@rivosinc.com,scan_x4_250611_0518,/projects/ga0/patterns/scan/eval/Scan/for_x4_compression/rv_dms_rvdms2_ffc_pdp_int_sa_chain_edt_pl_061025_1.stil.gz,4,COMPLETE
+2025-06-11 05:18:26,kimhuang,kimhuang@rivosinc.com,scan_x4_250611_0518,/projects/ga0/patterns/scan/eval/Scan/for_x4_compression/rv_dms_rvdms2_ffc_pdp_int_sa_edt_ts_061025_1.stil.gz,4,COMPLETE
+2025-06-11 05:18:26,kimhuang,kimhuang@rivosinc.com,scan_x4_250611_0518,/projects/ga0/patterns/scan/eval/Scan/for_x4_compression/rv_dms_rvdms2_ffc_pdp_int_sa_scan_edt_pl_061025_1.stil.gz,4,COMPLETE
+2025-06-11 05:18:26,kimhuang,kimhuang@rivosinc.com,scan_x4_250611_0518,/projects/ga0/patterns/scan/eval/Scan/for_x4_compression/rv_pcs1_rvpcs_x16ide_pdp_int_sa_chain_edt_pl_061025_1.stil.gz,4,COMPLETE
+2025-06-11 05:18:26,kimhuang,kimhuang@rivosinc.com,scan_x4_250611_0518,/projects/ga0/patterns/scan/eval/Scan/for_x4_compression/rv_pcs1_rvpcs_x16ide_pdp_int_sa_edt_ts_061025_1.stil.gz,4,COMPLETE
+2025-06-11 05:18:26,kimhuang,kimhuang@rivosinc.com,scan_x4_250611_0518,/projects/ga0/patterns/scan/eval/Scan/for_x4_compression/rv_pcs1_rvpcs_x16ide_pdp_int_sa_scan_edt_pl_061025_1.stil.gz,4,COMPLETE
